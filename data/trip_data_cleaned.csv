@@ -1,0 +1,49 @@
+Date,Time,Hour,Day of Week,Month,Status,Vehicle Type,Distance (mi),Duration (min),Fare (INR),Surge Multiplier,Is Surged,ETA (min),Pickup Area,Dropoff Area,Fare per Mile (INR)
+2024-09-26,09:49,9,Thursday,2024-09,Rider Canceled,AUTO Agram,,,0,,False,,,Office,
+2024-09-26,09:55,9,Thursday,2024-09,Rider Canceled,AUTO Agram,,,0,,False,,,Office,
+2024-09-27,13:52,13,Friday,2024-09,Completed,Moto_short,1.667597,9.8,43,1,False,6.1,Home Area,Office,25.785606474466
+2024-09-30,09:56,9,Monday,2024-09,Rider Canceled,AUTO Agram,,,0,,False,12,,Office,
+2024-10-08,09:34,9,Tuesday,2024-10,Completed,AUTO Agram,2.424186,13.8,96,1,False,6.4,Home Area,Other,39.6009217114528
+2024-10-09,09:54,9,Wednesday,2024-10,Completed,Moto_short,1.65987,7.8,43,1,False,6.2,Home Area,Office,25.9056432130227
+2024-11-02,21:54,21,Saturday,2024-11,Rider Canceled,Moto Saver,,,0,,False,8.2,,Other,
+2024-11-12,09:45,9,Tuesday,2024-11,Rider Canceled,AUTO Agram,,,0,,False,6.9,,Office,
+2024-11-19,09:08,9,Tuesday,2024-11,Completed,AUTO Agram,1.666445,12.1,94,1,False,7.4,Home Area,Office,56.4075021977923
+2024-12-02,13:27,13,Monday,2024-12,Completed,Moto_short,1.65694,8.6,45,1,False,6.2,Home Area,Office,27.1584969884244
+2025-01-02,08:24,8,Thursday,2025-01,Rider Canceled,AUTO Agram,,,0,,False,,,Home Area,
+2025-01-06,09:57,9,Monday,2025-01,Completed,Moto_short,1.009057,7.5,47,1.1,True,5.5,Home Area,Office,46.5781417699892
+2025-01-16,13:31,13,Thursday,2025-01,Rider Canceled,Moto Saver,,,0,,False,7.2,,Office,
+2025-01-22,13:10,13,Wednesday,2025-01,Completed,Moto Saver,1.661348,9.7,33,1,False,2.5,Home Area,Office,19.8633880439258
+2025-01-27,09:55,9,Monday,2025-01,Completed,Moto Saver,1.588882,8.5,39,1.2,True,7.4,Home Area,Office,24.5455609667678
+2025-02-05,09:55,9,Wednesday,2025-02,Rider Canceled,Moto Saver,,,0,,True,,,Office,
+2025-02-05,10:06,10,Wednesday,2025-02,Rider Canceled,Moto Saver,,,0,,True,20.1,,Office,
+2025-02-06,09:52,9,Thursday,2025-02,Completed,Moto Saver,1.59564,9.2,36,1.1,True,5.9,Home Area,Office,22.5614800330902
+2025-02-07,13:58,13,Friday,2025-02,Completed,Moto Saver,1.588099,7.3,33,1,False,5,Home Area,Office,20.7795609719545
+2025-02-10,09:47,9,Monday,2025-02,Completed,Moto Saver,1.603458,14.5,38,1.1,True,6.5,Home Area,Office,23.6987810095431
+2025-02-11,12:23,12,Tuesday,2025-02,Completed,Moto Saver,1.661259,7.3,33,1,False,3.2,Home Area,Office,19.8644522016134
+2025-02-12,09:27,9,Wednesday,2025-02,Completed,Moto Saver,1.588327,10.6,40,1.2,True,1.5,Home Area,Office,25.1837310578993
+2025-02-17,09:32,9,Monday,2025-02,Completed,Moto Saver,1.604659,10.4,44.74,1.4,True,7.9,Home Area,Office,27.8813131014128
+2025-02-19,13:09,13,Wednesday,2025-02,Completed,Moto Saver,1.599026,8.6,32.81,1,False,5.1,Home Area,Office,20.5187407834519
+2025-02-21,13:20,13,Friday,2025-02,Completed,Moto Saver,1.588289,8,35.88,1.1,True,8,Home Area,Office,22.5903472227032
+2025-02-22,04:06,4,Saturday,2025-02,Completed,Moto Saver,2.74315,8.1,51.47,1,False,3.6,Home Area,Other,18.7631008147568
+2025-03-01,10:51,10,Saturday,2025-03,Rider Canceled,AUTO Agram,,,0,,False,5.8,,Other,
+2025-03-01,13:41,13,Saturday,2025-03,Rider Canceled,AUTO Agram,,,0,,False,,,Home Area,
+2025-03-03,09:01,9,Monday,2025-03,Unfulfilled,AUTO Agram,0,0,0,0,False,,,Other,
+2025-03-03,09:43,9,Monday,2025-03,Unfulfilled,AUTO Agram,0,0,0,0,False,,,Other,
+2025-03-03,09:52,9,Monday,2025-03,Driver Canceled,AUTO Agram,,,0,,False,7.3,,Other,
+2025-04-26,22:22,22,Saturday,2025-04,Completed,Moto Saver,1.27333,5.3,43.21,1,False,2.5,Other,Home Area,33.9346438079681
+2025-04-26,23:18,23,Saturday,2025-04,Completed,Moto Saver,1.080879,4.4,43.98,1.1,True,5.4,Other,Other,40.6891058111037
+2025-04-27,20:04,20,Sunday,2025-04,Completed,Moto Saver,1.938847,7.7,41.7,1,False,7.3,Home Area,Other,21.5076279871491
+2025-05-04,21:19,21,Sunday,2025-05,Completed,Moto Saver,1.639482,6.8,37.26,1.1,True,2.4,Other,Home Area,22.7266905034639
+2025-05-04,15:14,15,Sunday,2025-05,Rider Canceled,Moto Saver,,,0,,True,,Other,Home Area,
+2025-05-05,00:34,0,Monday,2025-05,Rider Canceled,Moto Saver,,,0,,False,5.2,Home Area,Other,
+2025-05-05,00:41,0,Monday,2025-05,Completed,Moto Saver,1.684274,6.5,42.9,1,False,5.9,Home Area,Other,25.4709150648885
+2025-05-24,23:59,23,Saturday,2025-05,Rider Canceled,Moto Saver,,,0,,True,11,Other,Home Area,
+2025-05-25,22:14,22,Sunday,2025-05,Rider Canceled,AUTO Agram,,,0,,False,,Other,Other,
+2025-05-25,22:15,22,Sunday,2025-05,Rider Canceled,Moto Saver,,,0,,True,20.8,Other,Other,
+2025-06-01,02:15,2,Sunday,2025-06,Rider Canceled,Moto Saver,,,0,,False,,Other,Other,
+2025-06-01,21:43,21,Sunday,2025-06,Completed,Moto Saver,0.997285,3.7,39.6,1,False,1.5,Other,Other,39.7078066951774
+2025-06-01,21:59,21,Sunday,2025-06,Completed,Moto Saver,1.089388,4,47.06,1.1,True,4.2,Other,Other,43.1985665346048
+2025-06-06,21:54,21,Friday,2025-06,Completed,Moto Saver,1.2,5,44.33,1.1,True,7.8,Other,Other,36.9416666666667
+2025-06-07,17:51,17,Saturday,2025-06,Completed,Moto Saver,1.416491,7.5,42.03,1,False,2.2,Other,Other,29.6719146115295
+2025-08-04,15:38,15,Monday,2025-08,Completed,UberGo,21.37,69,369.93,1,False,3.3,Other,Other,17.310715956949
+,,,,,,,,,,,,,,,
