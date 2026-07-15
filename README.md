@@ -22,7 +22,7 @@ The dataset is my own Uber ride history export (Sep 2024 – Aug 2025, Bangalore
 
 ## Dashboard
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+screenshots/dashboard_overview.png
 ![Hourly Pattern](screenshots/hourly_pattern.png)
 ![Cancellation Analysis](screenshots/cancellation_analysis.png)
 
